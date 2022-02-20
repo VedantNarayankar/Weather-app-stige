@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vanshikasharma620/Weather-App.git"
+    "url": "git+https://github.com/VedantNarayankar/weather-app-stige.git"
   },
-  "author": "vanshika",
+  "author": "vedant",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Vanshikasharma620/Weather-App/issues"
+    "url": "https://github.com/VedantNarayankar/weather-app-stige.git"
   },
-  "homepage": "https://github.com/Vanshikasharma620/Weather-App#readme",
+  "homepage": "https://github.com/VedantNarayankar/weather-app-stige.git",
   "dependencies": {
     "express": "^4.17.1"
   }
