@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&family=Redressed&family=Roboto:wght@100;300;400;500;700&display=swap");
+body {
+  /* opacity: 0.6; */
+  min-height: 100vh;
+  max-width: 100%;
+  background-image: url("pexels-benjamin-suter-3617500.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Redressed", serif;
+}
+
+#heading {
+  opacity: 1;
+  font-family: "Redressed", serif;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: bolder;
+  color: #fff;
+}
+form {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  opacity: 1;
+  margin-top: 100px;
+}
+#city::placeholder {
+  color: #fff;
+  text-align: center;
+  font-family: "Redressed", serif;
+}
+#city {
+  min-width: 52%;
+  font-size: 2rem;
+  color: #fff;
+  outline: none;
+  border-radius: 20px;
+  padding-left: 20px;
+  background-color: transparent;
+}
+.text {
+  text-align: center;
+  color: #fff;
+}
+
+.hide {
+  display: none;
+}
+#showdata {
+  width: 300px;
+  margin: auto;
+  margin-top: 100px;
+  opacity: 1;
+}
